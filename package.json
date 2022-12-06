@@ -15,7 +15,7 @@
     "lodash.pick": "^4.4.0",
     "moment": "^2.24.0",
     "native-base": "^2.12.1",
-    "qs": "^6.7.0",
+    "qs": "^6.7.3",
     "react": "16.8.3",
     "react-native": "0.59.5",
     "react-native-axios": "^0.17.1",
